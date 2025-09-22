@@ -8,3 +8,13 @@ Introduction
             -Tcpdump
             - WHOIS
             
+Learing Outcoming 
+
+
+
+
+Monitoring Nwtwork ActiviAs 
+
+A Cyber Security Analyst, several tools are available that can be used to monitor and
+analyze network traffic. Analyzing network traffic is essential to detect any malicious
+activity on the networkty
