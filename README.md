@@ -12,7 +12,13 @@ Introduction
 
 Objective 
 
-            
+            Customize the Wireshark Application
+            Capture Network Traffic using the Wireshark Application
+            Capture Network Traffic using Tcpdump
+            Analyze Malicious Code
+            Use WHOIS to Validate Domain Names
+            Use AbuseIPDB to Validate Domain Names
+            Use the Virustotal Website to Verify Links
                        
 
 
@@ -33,3 +39,5 @@ Devices
                          -Windows 11 - Domain Member Workstation
                          -Linux Standalone Workstation
                          -Kali Linux Standalone Workstation
+
+
