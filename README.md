@@ -42,7 +42,7 @@ Devices
 
 Task 1 Customizing the Wireshark Application
 
-Open wireshark on kalilinx 
+Open wireshark on kali-linx 
 <div>
             <img width="508" height="178" alt="image" src="https://github.com/user-attachments/assets/5e9a958f-0c03-4657-a98c-7140ceb9f996" />
 </div>
