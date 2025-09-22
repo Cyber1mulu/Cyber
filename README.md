@@ -40,7 +40,7 @@ Devices
                          -Linux Standalone Workstation
                          -Kali Linux Standalone Workstation
 
-Task 1 Customizing the Wireshark Application
+<h2 style="color:lightblue;">   Task 1 - Customizing the Wireshark Application </h2>
 
 Open wireshark on kali-linx 
 <div>
@@ -81,6 +81,20 @@ It also shows that Wireshark allows users to add and edit columns, enabling more
 
 
 
-Task 2 - Capturing Network Traffic using the Wireshark Application
+
+<h2 style="color:lightblue;">Task 2 - Capturing Network Traffic using the Wireshark Application</h2>
+
+The Wireshark application will be used to capture network traffic.
+In the Apply a display filter, enter the following and click Apply display filter:
+
+
+
+http
+
+
+<div>
+            <img width="508" height="179" alt="image" src="https://github.com/user-attachments/assets/d48cff51-ba62-4b1f-a593-466dbfd9365d" />
+</div>
+
 
 
