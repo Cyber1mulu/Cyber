@@ -7,8 +7,17 @@ Introduction
             - Wireshark
             -Tcpdump
             - WHOIS
+
+
+
             
-Learing Outcoming 
+            
+                        - Windows Server 2022 - Domain Controller
+                        - Windows Server 2022 - Domain Member Server
+                        - Windows 11 - Domain Member Workstation
+                        - ALMA Linux Standalone Workstation
+                        - Kali Linux Standalone Workstation
+
 
 
 
