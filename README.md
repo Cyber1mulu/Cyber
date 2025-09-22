@@ -1,2 +1,10 @@
 # Tools for Identifying Malicious Activity
-Github Profile
+
+
+Introduction 
+
+            -Network Traffic
+            - Wireshark
+            -Tcpdump
+            - WHOIS
+            
