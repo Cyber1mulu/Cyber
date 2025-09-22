@@ -70,3 +70,9 @@ In the Wireshark application, click Stop capturing packets
 <img width="508" height="179" alt="image" src="https://github.com/user-attachments/assets/767abcd8-7be3-4e41-ace6-9f9229d4a8c6" />
 </div>
 
+
+This screenshot illustrates the perspective of cybersecurity analysts, demonstrating how professionals conduct network monitoring.
+
+<div>
+<img width="508" height="179" alt="image" src="https://github.com/user-attachments/assets/84c46c45-541f-4e11-8eed-9da419a13ddc" />
+</div>
