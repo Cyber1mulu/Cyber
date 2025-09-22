@@ -63,6 +63,9 @@ Capturing Packets.
 
 
 
+
+
+In the Wireshark application, click Stop capturing packets
 <div>
 <img width="508" height="179" alt="image" src="https://github.com/user-attachments/assets/767abcd8-7be3-4e41-ace6-9f9229d4a8c6" />
 </div>
