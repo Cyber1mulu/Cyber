@@ -49,3 +49,7 @@ Open wireshark on kali-linx
 
 
 
+In the Wireshark Network Analyzer window, ensure eth0 is selected and click Start
+Capturing Packets.
+
+
