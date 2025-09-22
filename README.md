@@ -71,8 +71,14 @@ In the Wireshark application, click Stop capturing packets
 </div>
 
 
-This screenshot illustrates the perspective of cybersecurity analysts, demonstrating how professionals conduct network monitoring.
+This screenshot illustrates the perspective of cybersecurity analysts, demonstrating how professionals conduct network monitoring. 
+It also shows that Wireshark allows users to add and edit columns, enabling more customized and effective analysis.
 
 <div>
 <img width="508" height="179" alt="image" src="https://github.com/user-attachments/assets/84c46c45-541f-4e11-8eed-9da419a13ddc" />
 </div>
+
+
+Task 2 - Capturing Network Traffic using the Wireshark Application
+
+
