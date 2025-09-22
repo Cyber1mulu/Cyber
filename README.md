@@ -12,7 +12,7 @@ Learing Outcoming
 
 
 
-Monitoring Nwtwork ActiviAs 
+Monitoring Network ActiviAs 
                                       
                                       
              A Cyber Security Analyst, several tools are available that can be used to monitor and analyze network traffic.
