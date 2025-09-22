@@ -18,7 +18,7 @@ Objective
 
 
 
-Monitoring Network ActiviAs 
+Monitoring Network Activities
                                       
                                       
              A Cyber Security Analyst, several tools are available that can be used to monitor and analyze network traffic.
