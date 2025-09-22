@@ -55,7 +55,7 @@ In the Wireshark Network Analyzer window, ensure eth0 is selected and click Star
 Capturing Packets.
 
 <div>      
-<img width="1037" height="542" alt="image" src="https://github.com/user-attachments/assets/9a06ca45-041a-484b-8e34-3111fe1325f1" />
+<img width="508" height="179" alt="image" src="https://github.com/user-attachments/assets/9a06ca45-041a-484b-8e34-3111fe1325f1" />
       </div>
 
 
