@@ -10,7 +10,8 @@ Introduction
 
 
 
-            
+Objective 
+
             
                         - Windows Server 2022 - Domain Controller
                         - Windows Server 2022 - Domain Member Server
