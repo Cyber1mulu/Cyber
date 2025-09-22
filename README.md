@@ -79,6 +79,8 @@ It also shows that Wireshark allows users to add and edit columns, enabling more
 </div>
 
 
+
+
 Task 2 - Capturing Network Traffic using the Wireshark Application
 
 
