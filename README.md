@@ -92,9 +92,29 @@ In the Apply a display filter, enter the following and click Apply display filte
 http
 
 
+A filter has been applied to display specific network traffic that is being
+captured
 <div>
             <img width="508" height="179" alt="image" src="https://github.com/user-attachments/assets/d48cff51-ba62-4b1f-a593-466dbfd9365d" />
 </div>
 
 
+
+From the captured traffic, it can be determined the destination IP address
+for connecting to the internet is 142.251.179.94, and the destination port is
+80. In this environment, the source address is 10.0.0.0 and uses
+Port 80
+
+<div>
+<img width="508" height="197" alt="image" src="https://github.com/user-attachments/assets/a0b9957b-6709-452a-90e9-66daf0c51f22" />
+</div>
+
+
+
+In the filter field, enter the following:
+the ip address 142.251.0.0/24
+
+<div>            
+            <img width="508" height="197" alt="image" src="https://github.com/user-attachments/assets/b045f901-2d82-4a9e-9ec9-f1fa07862e99" /> 
+</div>          
 
