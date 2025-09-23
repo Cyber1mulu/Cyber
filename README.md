@@ -120,8 +120,27 @@ the ip address 142.251.0.0/24
 
 
 
-<h4 style="color:lightblue;"> Note </h4> 
-            <h5> Applying the ip. addr == 10.0.0.0/24 filter displays all the traf ic
-                        from the dif erent hosts captured by the Wireshark application. A Cyber Security
+<h3 style="color:lightblue;"> Note </h3> 
+
+                        Applying the ip. addr == 10.0.0.0/24 filter displays all the traffic
+                        from the different hosts captured by the Wireshark application. A Cyber Security
                         Specialist can use this information to determine the different types of traffic from
-                        different hosts and if it is legitimate traffic.</h5>
+                        different hosts and if it is legitimate traffic.
+
+
+ <h2 style="color:lightblue;">  Task 3 - Capture Network Traffic using Tcpdump </h2>
+
+
+ The tcpdump application is a command line utility that can be used to capture network
+ traffic. In this task, the tcpdump command line utility will be used to capture network traffic.
+
+
+ <div>
+             <img width="755" height="295" alt="image" src="https://github.com/user-attachments/assets/e744face-b678-4202-a76f-53f5d3af7e7f" />
+</div>
+
+
+<h3 style="color:lightblue:" Note </h3>
+The command is executed to determine which network interface on the
+device will be used to capture network traffic.
+
