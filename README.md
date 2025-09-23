@@ -140,7 +140,13 @@ the ip address 142.251.0.0/24
 </div>
 
 
-<h3 style="color:lightblue:" Note </h3>
-The command is executed to determine which network interface on the
-device will be used to capture network traffic.
+<h3 style="color:lightblue;"> Note </h3> 
 
+            
+            The command is executed to determine which network interface on the
+            device will be used to capture network traffic.
+
+https://www.youtube.com/watch?v=QDfLou004iE
+
+
+                                             
