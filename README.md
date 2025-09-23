@@ -118,3 +118,10 @@ the ip address 142.251.0.0/24
             <img width="508" height="197" alt="image" src="https://github.com/user-attachments/assets/b045f901-2d82-4a9e-9ec9-f1fa07862e99" /> 
 </div>          
 
+
+
+<h4 style="color:lightblue;"> Note </h4> 
+            <h5> Applying the ip. addr == 10.0.0.0/24 filter displays all the traf ic
+                        from the dif erent hosts captured by the Wireshark application. A Cyber Security
+                        Specialist can use this information to determine the different types of traffic from
+                        different hosts and if it is legitimate traffic.</h5>
